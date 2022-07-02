@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bookers2
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* スクール学習用のサンプルアプリ
+* いいね,コメント機能まで実装済み（応用課題復習編　課題3まで）
+* 応用課題で拡張機能を実装するときに利用する
